@@ -42,7 +42,7 @@ const Home = (): JSX.Element => {
 
       setProducts(data);
     }
-''
+
     loadProducts();
   }, []);
 
