@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+db-1616623387218.json
+package-lock.json
+yarn.lock
+.vscode/launch.json
